@@ -1,5 +1,5 @@
 # Leetcode-problem
-In this repository,i haved solved the "search in rotated sorted array" problem.
+In this repository,i haved solved some intermediate problems with optimized solutions.
 
 
 
